@@ -1,0 +1,76 @@
+@import "linechart.scss";
+@import "pie.scss";
+@import "map.scss";
+@import "variables";
+.app{
+    height:100vh;
+    width:100vw;
+    overflow-y:scroll;  
+    .stateSelection{
+        position:fixed;
+         box-sizing: border-box;
+            height:35px;
+            background-color:$header_color ;
+            display:flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 5px 20px;
+
+            padding-top: 0px;
+             position: fixed;
+            top: 0;
+            left: 0;
+             right: 0;
+             z-index: 999;
+
+
+            p{
+                margin: 0px;
+                color: #fff;
+              
+                align-items: center;
+            }
+            #dropdown-basic-button{
+                        height: 25px;
+                        padding: 0px;
+                        width:140px;
+                        
+            }
+            .dropdown-menu.show {
+                height: 250px;
+                overflow-y: scroll;
+                width: 100px;
+            }
+
+            @media only screen and (min-width:960px){
+                height: 50px;
+                padding: 5px 80px;
+                p{
+                    font-size: 20px;
+                    font-weight: bold;
+                }
+            }
+    }
+    .representation{
+            
+           
+            width:100%;
+            padding: 55px 20px 10px 20px;
+            margin: 0px !important;
+           
+
+            @media only screen and (min-width:760px) and (max-width:960px){
+               
+                padding: 90px 60px 50px 60px;
+                
+            }
+
+            @media only screen and (min-width:960px){
+                 width:100%;
+                padding: 90px 80px 40px 80px;
+                
+            }
+    }
+}
+
+.p-0{padding:0px !important};

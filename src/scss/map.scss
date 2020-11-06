@@ -1,0 +1,41 @@
+@import "mixins";
+@import "variables";
+
+.mapview{
+    @include representational_view_smaller_screen;
+
+    .container_map{
+        height:250px;
+    }
+    .leaflet-left {
+      
+        right: 0px!important;
+        left:auto!important;
+    }
+    .leaflet-top {
+      
+        bottom: 0px!important;
+        top:auto!important;
+
+    }
+    .leaflet-control-zoom {
+        margin: 0px 10px 10px 0px;
+    }
+    @media only screen and (min-width:760px) and (max-width:960px){
+        @include representational_view_bigger_screen;
+        height :$map-height_bigger_screen;
+        .container_map{
+            height:$map-height_bigger_screen;
+        }
+    } 
+
+    @media only screen and (min-width:960px){
+        @include representational_view_bigger_screen;
+        height :$map-height_bigger_screen;
+        .container_map{
+            height:$map-height_bigger_screen;
+        }
+    }
+
+
+}

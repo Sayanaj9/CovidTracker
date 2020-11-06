@@ -1,0 +1,536 @@
+{  
+    "states":[
+        {
+        "Uttarakhand":[
+             {
+            "active": 1102,
+            "cured": 1046,
+            "death": 19,
+            "total": 2407,
+            "time":"05/11/2020 10:49:00 AM"
+            
+            },
+
+            {
+            "active": 1202,
+            "cured": 1036,
+            "death": 34,
+            "total": 2407,
+            "time":"05/11/2020 12:10:00 PM"
+           
+            }
+        ]},
+        {"Andhra Pradesh":[
+            {
+            "active": 100,
+            "cured": 10,
+            "death": 10,
+            "total": 120,
+            "time":"05/11/2020 9:49:00 AM"
+            },
+
+            {
+            "active": 201,
+            "cured": 20,
+            "death": 30,
+            "total": 300,
+            "time":"05/11/2020 12:10:00 PM"
+            }
+        ]},
+        {"Arunachal Pradesh":[
+            {
+            "active": 200,
+            "cured": 20,
+            "death": 10,
+            "total": 230,
+            "time":"05/11/2020 07:49:00 AM"
+            },
+
+            {
+                "active": 400,
+                "cured": 20,
+                "death": 50,
+                "total": 632,
+            "time":"05/11/2020 07:10:00 PM"
+            }
+        ]},
+        {"Assam":[
+            {
+            "active": 300,
+            "cured": 30,
+            "death": 10,
+            "total": 340,
+            "time":"05/11/2020 04:49:00 AM"
+            },
+
+            {
+                "active": 378,
+                "cured": 30,
+                "death": 50,
+                "total": 603,
+            "time":"05/11/2020 12:10:00 PM"
+            }
+        ]},
+        {"Bihar":[
+            {
+            "active": 409,
+            "cured": 40,
+            "death": 10,
+            "total": 450,
+            "time":"05/11/2020 01:49:00 AM"
+            },
+
+            {
+                "active": 504,
+                "cured": 40,
+                "death": 70,
+                "total": 804,
+            "time":"05/11/2020 14:10:00 PM"
+            }
+        ]},
+        {"Karnataka":[
+            {
+            "active": 504,
+            "cured": 50,
+            "death": 10,
+            "total": 560,
+            "time":"05/11/2020 10:49:00 AM"
+            },
+
+            {
+                "active": 560,
+                "cured": 50,
+                "death": 10,
+                "total": 565,
+            "time":"05/11/2020 12:10:00 PM"
+            }
+        ]},
+        {"Kerala":[
+            {
+            "active": 600,
+            "cured": 60,
+            "death": 10,
+            "total": 670,
+            "time":"05/11/2020 11:49:00 AM"
+            },
+    
+            {
+                "active": 606,
+                "cured": 60,
+                "death": 10,
+                "total": 676,
+            "time":"05/11/2020 13:10:00 PM"
+            }
+                
+        ]},
+        {"Chhattisgarh":[
+            {
+            "active": 700,
+            "cured": 70,
+            "death": 10,
+            "total": 780,
+            "time":"05/11/2020 01:49:00 AM"
+            },
+
+            {
+                "active": 707,
+                "cured": 70,
+                "death": 10,
+                "total": 787,
+            "time":"05/11/2020 02:10:00 PM"
+            }
+        ]},
+        {"Uttar Pradesh":[
+            {
+            "active": 800,
+            "cured": 80,
+            "death": 10,
+            "total": 890,
+            "time":"05/11/2020 11:49:00 AM"
+            },
+
+            {
+                "active": 808,
+                "cured": 80,
+                "death": 10,
+                "total": 898,
+            "time":"05/11/2020 12:10:00 PM"
+            }
+        ]},
+        {"Goa":[
+            {
+            "active": 900,
+            "cured": 90,
+            "death": 10,
+            "total": 1000,
+            "time":"05/11/2020 04:49:00 AM"
+            },
+
+            {
+                "active": 909,
+                "cured": 90,
+                "death": 10,
+                "total": 1009,
+            "time":"05/11/2020 05:10:00 PM"
+            }
+        ]},
+        {"Gujarat":[
+            {
+            "active": 1000,
+            "cured": 100,
+            "death": 10,
+            "total": 1110,
+            "time":"05/11/2020 04:49:00 AM"
+            },
+
+            {
+                "active": 1001,
+                "cured": 100,
+                "death": 10,
+                "total": 1111,
+            "time":"05/11/2020 06:10:00 PM"
+            }
+        ]},
+        {"Haryana":[
+            {
+            "active": 1100,
+            "cured": 110,
+            "death": 10,
+            "total": 1220,
+            "time":"05/11/2020 10:49:00 AM"
+            },
+
+            {
+                "active": 1102,
+                "cured": 110,
+                "death": 10,
+                "total": 1222,
+            "time":"05/11/2020 09:10:00 PM"
+            }
+        ]},
+        {"Himachal Pradesh":[
+            {
+            "active": 1200,
+            "cured": 120,
+            "death": 10,
+            "total": 1330,
+            "time":"05/11/2020 10:49:00 AM"
+            },
+
+            {
+                "active": 1203,
+                "cured": 120,
+                "death": 10,
+                "total": 1333,
+            "time":"05/11/2020 08:10:00 PM"
+            }
+        ]},
+        {"Jammu and Kashmir":[
+            {
+            "active": 1300,
+            "cured": 130,
+            "death": 10,
+            "total": 1440,
+            "time":"05/11/2020 06:49:00 AM"
+            },
+
+            {
+                "active": 1304,
+                "cured": 130,
+                "death": 10,
+                "total": 1444,
+            "time":"05/11/2020 12:10:00 PM"
+            }
+        ]},
+        {"Jharkhand":[
+            {
+            "active": 1400,
+            "cured": 140,
+            "death": 10,
+            "total": 1550,
+            "time":"05/11/2020 07:49:00 AM"
+            },
+
+            {
+                "active": 1405,
+                "cured": 140,
+                "death": 10,
+                "total": 1555,
+            "time":"05/11/2020 12:10:00 PM"
+            }
+        ]},
+        {"West Bengal":[
+            {
+            "active": 1500,
+            "cured": 150,
+            "death": 10,
+            "total": 1660,
+            "time":"05/11/2020 10:49:00 AM"
+            },
+
+            {
+                "active": 1506,
+                "cured": 150,
+                "death": 10,
+                "total": 1666,
+            "time":"05/11/2020 08:10:00 PM"
+            }
+        ]},
+        {"Madhya Pradesh":[
+            {
+            "active": 1600,
+            "cured": 160,
+            "death": 10,
+            "total": 1770,
+            "time":"05/11/2020 03:49:00 AM"
+            },
+
+            {
+                "active": 1607,
+                "cured": 160,
+                "death": 10,
+                "total": 1777,
+            "time":"05/11/2020 12:10:00 PM"
+            }
+        ]},
+        {"Maharashtra":[
+            {
+            "active": 1700,
+            "cured": 170,
+            "death": 10,
+            "total": 1880,
+            "time":"05/11/2020 10:49:00 AM"
+            },
+
+            {
+                "active": 1708,
+                "cured": 170,
+                "death": 10,
+                "total": 1888,
+            "time":"05/11/2020 12:10:00 PM"
+            }
+        ]},
+        {"Manipur":[
+            {
+            "active": 1800,
+            "cured": 180,
+            "death": 10,
+            "total": 1990,
+            "time":"05/11/2020 06:49:00 AM"
+            },
+
+            {
+                "active": 1809,
+                "cured": 180,
+                "death": 10,
+                "total": 1999,
+            "time":"05/11/2020 12:10:00 PM"
+            }
+        ]},
+        {"Meghalaya":[
+            {
+            "active": 1900,
+            "cured": 190,
+            "death": 10,
+            "total": 2100,
+            "time":"05/11/2020 09:49:00 AM"
+            },
+
+            {
+                "active": 1901,
+                "cured": 190,
+                "death": 10,
+                "total": 2101,
+            "time":"05/11/2020 12:10:00 PM"
+            }
+        ]},
+        {"Mizoram":[
+            {
+            "active": 2000,
+            "cured": 200,
+            "death": 10,
+            "total": 2210,
+            "time":"05/11/2020 12:49:00 AM"
+            },
+
+            {
+                "active": 2002,
+                "cured": 200,
+                "death": 10,
+                "total": 2212,
+            "time":"05/11/2020 12:10:00 PM"
+            }
+        ]},
+        {"Nagaland":[
+            {
+            "active": 2100,
+            "cured": 210,
+            "death": 10,
+            "total": 2320,
+            "time":"05/11/2020 11:49:00 AM"
+            },
+
+            {
+                "active": 2103,
+                "cured": 210,
+                "death": 10,
+                "total": 2323,
+            "time":"05/11/2020 12:10:00 PM"
+            }
+        ]},
+        {"Orissa":[
+            {
+            "active": 2200,
+            "cured": 220,
+            "death": 10,
+            "total": 2430,
+            "time":"05/11/2020 10:49:00 AM"
+            },
+
+            {
+                "active": 2204,
+                "cured": 220,
+                "death": 10,
+                "total": 2434,
+            "time":"05/11/2020 11:10:00 PM"
+            }
+        ]},
+        {"Punjab":[
+            {
+            "active": 2300,
+            "cured": 230,
+            "death": 10,
+            "total": 2540,
+            "time":"05/11/2020 03:49:00 AM"
+            },
+
+            {
+                "active": 2305,
+                "cured": 230,
+                "death": 10,
+                "total": 2545,
+            "time":"05/11/2020 12:10:00 PM"
+            }
+        ]},
+        {"Rajasthan":[
+            {
+            "active": 2400,
+            "cured": 240,
+            "death": 10,
+            "total": 2650,
+            "time":"05/11/2020 05:49:00 AM"
+            },
+
+            {
+                "active": 2406,
+                "cured": 240,
+                "death": 10,
+                "total": 2656,
+            "time":"05/11/2020 12:10:00 PM"
+            }
+        ]},
+        {"Sikkim":[
+            {
+            "active": 2500,
+            "cured": 250,
+            "death": 10,
+            "total": 2760,
+            "time":"05/11/2020 10:49:00 AM"
+            },
+
+            {
+                "active": 2507,
+                "cured": 250,
+                "death": 10,
+                "total": 2767,
+            "time":"05/11/2020 09:10:00 PM"
+            }
+        ]},
+        {"Tamil Nadu":[
+            {
+            "active": 2600,
+            "cured": 260,
+            "death": 10,
+            "total": 2870,
+            "time":"05/11/2020 10:49:00 AM"
+            },
+
+            {
+                "active": 2608,
+                "cured": 260,
+                "death": 10,
+                "total": 2878,
+            "time":"05/11/2020 12:10:00 PM"
+            }
+        ]},
+        {"Telangana":[
+            {
+            "active": 2700,
+            "cured": 270,
+            "death": 10,
+            "total": 2980,
+            "time":"05/11/2020 10:30:00 AM"
+            },
+
+            {
+                "active": 2709,
+                "cured": 270,
+                "death": 10,
+                "total": 2989,
+            "time":"05/11/2020 12:10:00 PM"
+            }
+        ]},
+        {"Tripura":[
+            {
+            "active": 2800,
+            "cured": 280,
+            "death": 10,
+            "total": 3090,
+            "time":"05/11/2020 09:30:00 AM"
+            },
+
+            {
+                "active": 2801,
+                "cured": 280,
+                "death": 10,
+                "total": 3091,
+            "time":"05/11/2020 12:10:00 PM"
+            }
+        ]},
+        {"Uttaranchal":[
+            {
+            "active": 2900,
+            "cured": 290,
+            "death": 10,
+            "total": 3200,
+            "time":"05/11/2020 10:49:00 AM"
+            },
+
+            {
+                "active": 2902,
+                "cured": 290,
+                "death": 10,
+                "total": 3202,
+            "time":"05/11/2020 11:50:00 PM"
+            }
+        ]},
+        {"Delhi":[
+            {
+            "active": 2900,
+            "cured": 290,
+            "death": 10,
+            "total": 3200,
+            "time":"05/11/2020 10:15:00 AM"
+            },
+
+            {
+                "active": 2902,
+                "cured": 290,
+                "death": 10,
+                "total": 3202,
+            "time":"05/11/2020 10:45:00 PM"
+            }
+        ]}
+       
+    ]
+}

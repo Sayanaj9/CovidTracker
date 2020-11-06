@@ -1,0 +1,18 @@
+@import "mixins";
+@import "variables";
+
+.linechart{
+    @include representational_view_smaller_screen;
+
+    @media only screen and (min-width:760px) and (max-width:960px){
+        @include representational_view_bigger_screen;
+        height :$chart-height_bigger_screen;
+    }
+
+    @media only screen and (min-width:960px){
+        @include representational_view_bigger_screen;
+        height :$chart-height_bigger_screen;
+    }
+   
+
+}

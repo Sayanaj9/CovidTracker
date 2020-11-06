@@ -1,0 +1,18 @@
+@mixin representational_view{
+    
+    width:auto;
+    margin-bottom: 10px;
+    border:1px solid gray;
+    // box-shadow: 1px 1px #708090;
+}
+
+@mixin representational_view_smaller_screen{
+    @include representational_view;
+    height:250px;
+   
+}
+
+@mixin representational_view_bigger_screen{
+    @include representational_view;
+    // height:450px;
+}
